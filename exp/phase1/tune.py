@@ -19,6 +19,10 @@ from split import split
 
 if __name__ == '__main__':
 
+    if sys.argv[1] == 'german':
+        input_n = 24
+    elif sys.argv[1] == 'australian':
+        input_n = 15
     times = 20
     batch_size = 64
     epochs = 500
@@ -28,7 +32,10 @@ if __name__ == '__main__':
     best_scores = []
 
     for init in inits:
-        for act in act:
+        for act in acts:
+            print('============================')
+            print(init + ' + ' + act)
+            print('============================')
             seeds = []
             train_scores = []
             val_scores = []
@@ -36,7 +43,7 @@ if __name__ == '__main__':
             train_losses = []
             val_losses = []
             test_losses = []
-            for i in range(times)
+            for i in range(times):
                 random_seed = 1234*i + 5678
                 train, val, test = split('../../data/%s.npy' %sys.argv[1], random_seed)
 
@@ -48,8 +55,8 @@ if __name__ == '__main__':
                 x_val = scaler.transform(x_val)
                 x_test = scaler.transform(x_test)
 
-                X_input = Input((24, ))
-                X = Dense(neurons, kernel_initializer=init)(X_input)
+                X_input = Input((input_n, ))
+                X = Dense(9, kernel_initializer=init)(X_input)
 
                 if act == 'LeakyReLU':
                     X = LeakyReLU()(X)
@@ -58,7 +65,7 @@ if __name__ == '__main__':
                 else:
                     X = Activation(act)(X)
 
-                X = Dense(1, kernel_initializer=init, kernel_regularizer=reg)(X)
+                X = Dense(1, kernel_initializer=init)(X)
                 X_outputs = Activation('sigmoid')(X)
 
                 model = Model(inputs = X_input, outputs = X_outputs)
@@ -68,9 +75,12 @@ if __name__ == '__main__':
                 train_loss, train_score = model.evaluate(x_train, y_train, verbose=0)
                 val_loss, val_score = model.evaluate(x_val, y_val, verbose=0)
                 test_loss, test_score = model.evaluate(x_test, y_test, verbose=0)
+                print('time = %d' %i)
+                print('seed = %d' %random_seed)
                 print('tr_loss: %f, tr_score: %f' %(train_loss, train_score))
                 print('va_loss: %f, va_score: %f' %(val_loss, val_score))
                 print('te_loss: %f, te_score: %f' %(test_loss, test_score))
+                print('')
                 seeds.append(random_seed)
                 train_scores.append(train_score)
                 val_scores.append(val_score)
@@ -95,4 +105,9 @@ if __name__ == '__main__':
             train_losses = train_losses[sorted_index]
             val_losses = val_losses[sorted_index]
             test_losses = test_losses[sorted_index]
-            print()
+            print('The medium of train loss is:')
+            print('seed = %d' %seeds[10])
+            print('tr_loss: %f, tr_score: %f' %(train_losses[10], train_scores[10]))
+            print('va_loss: %f, va_score: %f' %(val_losses[10], val_scores[10]))
+            print('te_loss: %f, te_score: %f' %(test_losses[10], test_scores[10]))
+            print('\n')
