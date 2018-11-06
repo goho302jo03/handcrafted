@@ -1,0 +1,10 @@
+python3 tanh.py german > ./log/tanh.log
+python3 softsign.py german > ./log/softsign.log
+python3 sigmoid.py german > ./log/sigmoid.log
+python3 hard_sigmoid.py german > ./log/hard_sigmoid.log
+python3 relu.py german > ./log/relu.log
+python3 softplus.py german > ./log/softplus.log
+python3 LeakyReLU.py german > ./log/LeakyReLU.log
+python3 PReLU.py german > ./log/PReLU.log
+python3 elu.py german > ./log/elu.log
+python3 selu.py german > ./log/selu.log
