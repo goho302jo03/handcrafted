@@ -1,0 +1,12 @@
+python3 Zeros.py german > ./log/Zeros.log
+python3 Ones.py german > ./log/Ones.log
+python3 RandomNormal.py german > ./log/RandomNormal.log
+python3 RandomUniform.py german > ./log/RandomUniform.log
+python3 TruncatedNormal.py german > ./log/TruncatedNormal.log
+python3 Orthogonal.py german > ./log/Orthogonal.log
+python3 lecun_uniform.py german > ./log/lecun_uniform.log
+python3 lecun_normal.py german > ./log/lecun_normal.log
+python3 he_uniform.py german > ./log/he_uniform.log
+python3 he_normal.py german > ./log/he_normal.log
+python3 glorot_uniform.py german > ./log/glorot_uniform.log
+python3 glorot_normal.py german > ./log/glorot_normal.log
