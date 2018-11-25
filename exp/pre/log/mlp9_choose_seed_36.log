@@ -1,0 +1,2231 @@
+time = 0
+tr_loss: 0.551291, tr_score: 0.728750
+va_loss: 0.540248, va_score: 0.740000
+te_loss: 0.576416, te_score: 0.680000
+
+time = 0
+tr_loss: 0.545391, tr_score: 0.747500
+va_loss: 0.604254, va_score: 0.690000
+te_loss: 0.669771, te_score: 0.600000
+
+time = 0
+tr_loss: 0.598166, tr_score: 0.710000
+va_loss: 0.655406, va_score: 0.660000
+te_loss: 0.648966, te_score: 0.640000
+
+time = 0
+tr_loss: 0.599144, tr_score: 0.710000
+va_loss: 0.583425, va_score: 0.700000
+te_loss: 0.658216, te_score: 0.670000
+
+time = 0
+tr_loss: 0.589399, tr_score: 0.692500
+va_loss: 0.592224, va_score: 0.680000
+te_loss: 0.537817, te_score: 0.780000
+
+time = 0
+tr_loss: 0.578377, tr_score: 0.723750
+va_loss: 0.716338, va_score: 0.580000
+te_loss: 0.659219, te_score: 0.580000
+
+time = 0
+tr_loss: 0.552326, tr_score: 0.707500
+va_loss: 0.542254, va_score: 0.690000
+te_loss: 0.483501, te_score: 0.830000
+
+time = 0
+tr_loss: 0.617569, tr_score: 0.691250
+va_loss: 0.548302, va_score: 0.780000
+te_loss: 0.622493, te_score: 0.690000
+
+time = 0
+tr_loss: 0.565576, tr_score: 0.720000
+va_loss: 0.549620, va_score: 0.750000
+te_loss: 0.557277, te_score: 0.730000
+
+time = 0
+tr_loss: 0.554995, tr_score: 0.712500
+va_loss: 0.578266, va_score: 0.690000
+te_loss: 0.457905, te_score: 0.830000
+
+time = 0
+tr_loss: 0.639570, tr_score: 0.698750
+va_loss: 0.534223, va_score: 0.780000
+te_loss: 0.718136, te_score: 0.630000
+
+time = 0
+tr_loss: 0.580377, tr_score: 0.712500
+va_loss: 0.605836, va_score: 0.700000
+te_loss: 0.720074, te_score: 0.580000
+
+time = 0
+tr_loss: 0.601084, tr_score: 0.710000
+va_loss: 0.654823, va_score: 0.670000
+te_loss: 0.647470, te_score: 0.630000
+
+time = 0
+tr_loss: 0.535203, tr_score: 0.732500
+va_loss: 0.573442, va_score: 0.700000
+te_loss: 0.608388, te_score: 0.650000
+
+time = 0
+tr_loss: 0.584780, tr_score: 0.702500
+va_loss: 0.626818, va_score: 0.670000
+te_loss: 0.607531, te_score: 0.690000
+
+time = 0
+tr_loss: 0.562672, tr_score: 0.716250
+va_loss: 0.550703, va_score: 0.680000
+te_loss: 0.580221, te_score: 0.670000
+
+time = 0
+tr_loss: 0.633237, tr_score: 0.712500
+va_loss: 0.710157, va_score: 0.610000
+te_loss: 0.609697, te_score: 0.690000
+
+time = 0
+tr_loss: 0.579908, tr_score: 0.716250
+va_loss: 0.620887, va_score: 0.690000
+te_loss: 0.651794, te_score: 0.650000
+
+time = 0
+tr_loss: 0.537400, tr_score: 0.737500
+va_loss: 0.563532, va_score: 0.710000
+te_loss: 0.695026, te_score: 0.620000
+
+time = 0
+tr_loss: 0.585626, tr_score: 0.663750
+va_loss: 0.575254, va_score: 0.690000
+te_loss: 0.651870, te_score: 0.610000
+
+======================================================
+0  Seed:  [ 140. 2411. 2238. 5068. 2300. 9812. 6334. 4380. 4021. 8554. 2226. 8534.
+ 4715. 7921. 4457. 6212.  255.  495. 8301.  932.]
+tr_loss: 0.579605, tr_score: 0.712313
+va_loss: 0.596301, va_score: 0.693000
+te_loss: 0.618089, te_score: 0.672500
+time = 1
+tr_loss: 0.587033, tr_score: 0.730000
+va_loss: 0.646912, va_score: 0.640000
+te_loss: 0.565614, te_score: 0.720000
+
+time = 1
+tr_loss: 0.568627, tr_score: 0.718750
+va_loss: 0.621969, va_score: 0.680000
+te_loss: 0.564404, te_score: 0.720000
+
+time = 1
+tr_loss: 0.591497, tr_score: 0.703750
+va_loss: 0.577103, va_score: 0.690000
+te_loss: 0.539158, te_score: 0.750000
+
+time = 1
+tr_loss: 0.580137, tr_score: 0.718750
+va_loss: 0.562149, va_score: 0.740000
+te_loss: 0.673302, te_score: 0.630000
+
+time = 1
+tr_loss: 0.591736, tr_score: 0.705000
+va_loss: 0.630160, va_score: 0.650000
+te_loss: 0.564025, te_score: 0.730000
+
+time = 1
+tr_loss: 0.556923, tr_score: 0.710000
+va_loss: 0.574695, va_score: 0.670000
+te_loss: 0.513644, te_score: 0.760000
+
+time = 1
+tr_loss: 0.557856, tr_score: 0.713750
+va_loss: 0.558311, va_score: 0.710000
+te_loss: 0.551054, te_score: 0.680000
+
+time = 1
+tr_loss: 0.570715, tr_score: 0.710000
+va_loss: 0.557396, va_score: 0.730000
+te_loss: 0.545022, te_score: 0.740000
+
+time = 1
+tr_loss: 0.574976, tr_score: 0.706250
+va_loss: 0.603949, va_score: 0.680000
+te_loss: 0.538260, te_score: 0.760000
+
+time = 1
+tr_loss: 0.602799, tr_score: 0.703750
+va_loss: 0.617751, va_score: 0.730000
+te_loss: 0.703871, te_score: 0.610000
+
+time = 1
+tr_loss: 0.576161, tr_score: 0.716250
+va_loss: 0.606720, va_score: 0.690000
+te_loss: 0.520559, te_score: 0.750000
+
+time = 1
+tr_loss: 0.564551, tr_score: 0.718750
+va_loss: 0.592993, va_score: 0.700000
+te_loss: 0.595153, te_score: 0.710000
+
+time = 1
+tr_loss: 0.590827, tr_score: 0.705000
+va_loss: 0.515638, va_score: 0.780000
+te_loss: 0.630341, te_score: 0.640000
+
+time = 1
+tr_loss: 0.595838, tr_score: 0.668750
+va_loss: 0.527896, va_score: 0.750000
+te_loss: 0.569606, te_score: 0.740000
+
+time = 1
+tr_loss: 0.571512, tr_score: 0.707500
+va_loss: 0.619251, va_score: 0.640000
+te_loss: 0.584783, te_score: 0.710000
+
+time = 1
+tr_loss: 0.550514, tr_score: 0.723750
+va_loss: 0.509717, va_score: 0.770000
+te_loss: 0.584955, te_score: 0.700000
+
+time = 1
+tr_loss: 0.592685, tr_score: 0.702500
+va_loss: 0.574050, va_score: 0.690000
+te_loss: 0.631546, te_score: 0.680000
+
+time = 1
+tr_loss: 0.570167, tr_score: 0.713750
+va_loss: 0.598049, va_score: 0.690000
+te_loss: 0.566918, te_score: 0.730000
+
+time = 1
+tr_loss: 0.606840, tr_score: 0.696250
+va_loss: 0.563836, va_score: 0.750000
+te_loss: 0.666102, te_score: 0.660000
+
+time = 1
+tr_loss: 0.592262, tr_score: 0.693750
+va_loss: 0.591002, va_score: 0.710000
+te_loss: 0.556821, te_score: 0.720000
+
+======================================================
+1  Seed:  [8640.  888. 4066.  552. 1437. 6591. 8969.  824. 8811.  938.  550. 9822.
+ 6241. 3057. 1352. 8361. 5326. 3377. 2314. 8889.]
+tr_loss: 0.579683, tr_score: 0.708313
+va_loss: 0.582477, va_score: 0.704500
+te_loss: 0.583257, te_score: 0.707000
+time = 2
+tr_loss: 0.578896, tr_score: 0.717500
+va_loss: 0.592694, va_score: 0.690000
+te_loss: 0.647568, te_score: 0.640000
+
+time = 2
+tr_loss: 0.649559, tr_score: 0.641250
+va_loss: 0.558893, va_score: 0.720000
+te_loss: 0.642974, te_score: 0.670000
+
+time = 2
+tr_loss: 0.597185, tr_score: 0.711250
+va_loss: 0.606513, va_score: 0.670000
+te_loss: 0.589134, te_score: 0.720000
+
+time = 2
+tr_loss: 0.591580, tr_score: 0.698750
+va_loss: 0.617189, va_score: 0.690000
+te_loss: 0.574170, te_score: 0.730000
+
+time = 2
+tr_loss: 0.576649, tr_score: 0.700000
+va_loss: 0.566651, va_score: 0.690000
+te_loss: 0.516675, te_score: 0.780000
+
+time = 2
+tr_loss: 0.545215, tr_score: 0.723750
+va_loss: 0.545457, va_score: 0.720000
+te_loss: 0.615508, te_score: 0.630000
+
+time = 2
+tr_loss: 0.546286, tr_score: 0.727500
+va_loss: 0.674364, va_score: 0.600000
+te_loss: 0.580386, te_score: 0.700000
+
+time = 2
+tr_loss: 0.609384, tr_score: 0.655000
+va_loss: 0.562629, va_score: 0.740000
+te_loss: 0.566840, te_score: 0.690000
+
+time = 2
+tr_loss: 0.606471, tr_score: 0.665000
+va_loss: 0.532186, va_score: 0.700000
+te_loss: 0.610448, te_score: 0.700000
+
+time = 2
+tr_loss: 0.583517, tr_score: 0.697500
+va_loss: 0.621692, va_score: 0.700000
+te_loss: 0.565797, te_score: 0.730000
+
+time = 2
+tr_loss: 0.549926, tr_score: 0.707500
+va_loss: 0.545345, va_score: 0.690000
+te_loss: 0.621993, te_score: 0.650000
+
+time = 2
+tr_loss: 0.603349, tr_score: 0.708750
+va_loss: 0.591527, va_score: 0.720000
+te_loss: 0.564033, te_score: 0.770000
+
+time = 2
+tr_loss: 0.587111, tr_score: 0.697500
+va_loss: 0.559511, va_score: 0.730000
+te_loss: 0.561096, te_score: 0.690000
+
+time = 2
+tr_loss: 0.575158, tr_score: 0.697500
+va_loss: 0.538812, va_score: 0.740000
+te_loss: 0.554190, te_score: 0.710000
+
+time = 2
+tr_loss: 0.545680, tr_score: 0.730000
+va_loss: 0.546733, va_score: 0.730000
+te_loss: 0.560033, te_score: 0.720000
+
+time = 2
+tr_loss: 0.610803, tr_score: 0.691250
+va_loss: 0.504509, va_score: 0.760000
+te_loss: 0.562895, te_score: 0.760000
+
+time = 2
+tr_loss: 0.582387, tr_score: 0.705000
+va_loss: 0.610040, va_score: 0.700000
+te_loss: 0.608091, te_score: 0.660000
+
+time = 2
+tr_loss: 0.576471, tr_score: 0.701250
+va_loss: 0.616030, va_score: 0.670000
+te_loss: 0.539842, te_score: 0.750000
+
+time = 2
+tr_loss: 0.583510, tr_score: 0.720000
+va_loss: 0.595468, va_score: 0.690000
+te_loss: 0.562347, te_score: 0.710000
+
+time = 2
+tr_loss: 0.603329, tr_score: 0.707500
+va_loss: 0.584104, va_score: 0.740000
+te_loss: 0.619937, te_score: 0.690000
+
+======================================================
+2  Seed:  [5478. 7027. 2150. 7559. 3662. 2043. 8598. 4158. 6442. 4398. 3939. 9768.
+ 5143. 2231.  162. 6860. 3496. 7749. 2530. 2730.]
+tr_loss: 0.585123, tr_score: 0.700188
+va_loss: 0.578517, va_score: 0.704500
+te_loss: 0.583198, te_score: 0.705000
+time = 3
+tr_loss: 0.605222, tr_score: 0.706250
+va_loss: 0.616979, va_score: 0.690000
+te_loss: 0.582786, te_score: 0.730000
+
+time = 3
+tr_loss: 0.542690, tr_score: 0.716250
+va_loss: 0.564279, va_score: 0.670000
+te_loss: 0.579397, te_score: 0.690000
+
+time = 3
+tr_loss: 0.561661, tr_score: 0.713750
+va_loss: 0.631383, va_score: 0.680000
+te_loss: 0.616436, te_score: 0.690000
+
+time = 3
+tr_loss: 0.648665, tr_score: 0.686250
+va_loss: 0.628167, va_score: 0.760000
+te_loss: 0.621194, te_score: 0.700000
+
+time = 3
+tr_loss: 0.572381, tr_score: 0.696250
+va_loss: 0.548872, va_score: 0.720000
+te_loss: 0.588336, te_score: 0.700000
+
+time = 3
+tr_loss: 0.557170, tr_score: 0.713750
+va_loss: 0.498190, va_score: 0.780000
+te_loss: 0.551406, te_score: 0.720000
+
+time = 3
+tr_loss: 0.600500, tr_score: 0.711250
+va_loss: 0.647754, va_score: 0.620000
+te_loss: 0.599647, te_score: 0.690000
+
+time = 3
+tr_loss: 0.560458, tr_score: 0.717500
+va_loss: 0.621227, va_score: 0.700000
+te_loss: 0.633186, te_score: 0.700000
+
+time = 3
+tr_loss: 0.592479, tr_score: 0.708750
+va_loss: 0.641660, va_score: 0.640000
+te_loss: 0.604261, te_score: 0.700000
+
+time = 3
+tr_loss: 0.559605, tr_score: 0.708750
+va_loss: 0.539427, va_score: 0.740000
+te_loss: 0.541616, te_score: 0.730000
+
+time = 3
+tr_loss: 0.575573, tr_score: 0.703750
+va_loss: 0.586730, va_score: 0.750000
+te_loss: 0.592767, te_score: 0.690000
+
+time = 3
+tr_loss: 0.565992, tr_score: 0.705000
+va_loss: 0.543008, va_score: 0.740000
+te_loss: 0.605297, te_score: 0.670000
+
+time = 3
+tr_loss: 0.607639, tr_score: 0.696250
+va_loss: 0.593905, va_score: 0.720000
+te_loss: 0.603984, te_score: 0.710000
+
+time = 3
+tr_loss: 0.611538, tr_score: 0.691250
+va_loss: 0.641670, va_score: 0.660000
+te_loss: 0.562164, te_score: 0.760000
+
+time = 3
+tr_loss: 0.557477, tr_score: 0.728750
+va_loss: 0.679722, va_score: 0.620000
+te_loss: 0.574385, te_score: 0.690000
+
+time = 3
+tr_loss: 0.569758, tr_score: 0.716250
+va_loss: 0.562600, va_score: 0.690000
+te_loss: 0.569284, te_score: 0.710000
+
+time = 3
+tr_loss: 0.603107, tr_score: 0.705000
+va_loss: 0.652633, va_score: 0.700000
+te_loss: 0.667443, te_score: 0.660000
+
+time = 3
+tr_loss: 0.645073, tr_score: 0.632500
+va_loss: 0.664217, va_score: 0.620000
+te_loss: 0.647093, te_score: 0.600000
+
+time = 3
+tr_loss: 0.612547, tr_score: 0.698750
+va_loss: 0.652360, va_score: 0.670000
+te_loss: 0.647490, te_score: 0.650000
+
+time = 3
+tr_loss: 0.552275, tr_score: 0.731250
+va_loss: 0.565261, va_score: 0.720000
+te_loss: 0.561395, te_score: 0.700000
+
+======================================================
+3  Seed:  [6469. 3301. 7178. 4323. 9525.  454. 7215. 4562. 5178. 3971. 9338. 3960.
+ 2970. 9630. 2254.  396. 4264. 8949. 7913. 1289.]
+tr_loss: 0.585090, tr_score: 0.704375
+va_loss: 0.604002, va_score: 0.694500
+te_loss: 0.597478, te_score: 0.694500
+time = 4
+tr_loss: 0.582756, tr_score: 0.687500
+va_loss: 0.549475, va_score: 0.740000
+te_loss: 0.530148, te_score: 0.730000
+
+time = 4
+tr_loss: 0.592763, tr_score: 0.703750
+va_loss: 0.574719, va_score: 0.750000
+te_loss: 0.605943, te_score: 0.670000
+
+time = 4
+tr_loss: 0.549807, tr_score: 0.731250
+va_loss: 0.546137, va_score: 0.730000
+te_loss: 0.588302, te_score: 0.670000
+
+time = 4
+tr_loss: 0.600692, tr_score: 0.705000
+va_loss: 0.531858, va_score: 0.780000
+te_loss: 0.625082, te_score: 0.650000
+
+time = 4
+tr_loss: 0.600528, tr_score: 0.708750
+va_loss: 0.613314, va_score: 0.650000
+te_loss: 0.600497, te_score: 0.700000
+
+time = 4
+tr_loss: 0.558192, tr_score: 0.732500
+va_loss: 0.564821, va_score: 0.730000
+te_loss: 0.542852, te_score: 0.760000
+
+time = 4
+tr_loss: 0.524333, tr_score: 0.743750
+va_loss: 0.516281, va_score: 0.760000
+te_loss: 0.512434, te_score: 0.790000
+
+time = 4
+tr_loss: 0.584471, tr_score: 0.702500
+va_loss: 0.637379, va_score: 0.620000
+te_loss: 0.534041, te_score: 0.770000
+
+time = 4
+tr_loss: 0.606314, tr_score: 0.706250
+va_loss: 0.650436, va_score: 0.640000
+te_loss: 0.576655, te_score: 0.760000
+
+time = 4
+tr_loss: 0.569807, tr_score: 0.717500
+va_loss: 0.604056, va_score: 0.710000
+te_loss: 0.546276, te_score: 0.710000
+
+time = 4
+tr_loss: 0.595040, tr_score: 0.697500
+va_loss: 0.646557, va_score: 0.650000
+te_loss: 0.600290, te_score: 0.710000
+
+time = 4
+tr_loss: 0.573921, tr_score: 0.702500
+va_loss: 0.548388, va_score: 0.710000
+te_loss: 0.579154, te_score: 0.680000
+
+time = 4
+tr_loss: 0.554874, tr_score: 0.707500
+va_loss: 0.530855, va_score: 0.760000
+te_loss: 0.603464, te_score: 0.680000
+
+time = 4
+tr_loss: 0.585386, tr_score: 0.687500
+va_loss: 0.522857, va_score: 0.760000
+te_loss: 0.531871, te_score: 0.740000
+
+time = 4
+tr_loss: 0.576905, tr_score: 0.723750
+va_loss: 0.628334, va_score: 0.670000
+te_loss: 0.663311, te_score: 0.660000
+
+time = 4
+tr_loss: 0.567364, tr_score: 0.716250
+va_loss: 0.548012, va_score: 0.750000
+te_loss: 0.548229, te_score: 0.760000
+
+time = 4
+tr_loss: 0.591076, tr_score: 0.696250
+va_loss: 0.567489, va_score: 0.710000
+te_loss: 0.564586, te_score: 0.690000
+
+time = 4
+tr_loss: 0.581547, tr_score: 0.725000
+va_loss: 0.567479, va_score: 0.690000
+te_loss: 0.579826, te_score: 0.700000
+
+time = 4
+tr_loss: 0.555754, tr_score: 0.745000
+va_loss: 0.634752, va_score: 0.670000
+te_loss: 0.586004, te_score: 0.730000
+
+time = 4
+tr_loss: 0.557114, tr_score: 0.728750
+va_loss: 0.563407, va_score: 0.720000
+te_loss: 0.517970, te_score: 0.770000
+
+======================================================
+4  Seed:  [8744.  130. 2730. 2289. 3436.   91. 5431.  214. 1996. 7906. 4318. 5189.
+ 9458. 5884. 7590. 9032. 7937. 3024. 1021. 9551.]
+tr_loss: 0.575432, tr_score: 0.713437
+va_loss: 0.577330, va_score: 0.710000
+te_loss: 0.571847, te_score: 0.716500
+time = 5
+tr_loss: 0.470793, tr_score: 0.782500
+va_loss: 0.530991, va_score: 0.770000
+te_loss: 0.539831, te_score: 0.800000
+
+time = 5
+tr_loss: 0.593675, tr_score: 0.695000
+va_loss: 0.612561, va_score: 0.730000
+te_loss: 0.561891, te_score: 0.760000
+
+time = 5
+tr_loss: 0.578468, tr_score: 0.721250
+va_loss: 0.587636, va_score: 0.720000
+te_loss: 0.621978, te_score: 0.680000
+
+time = 5
+tr_loss: 0.541017, tr_score: 0.733750
+va_loss: 0.568162, va_score: 0.680000
+te_loss: 0.594831, te_score: 0.710000
+
+time = 5
+tr_loss: 0.591550, tr_score: 0.698750
+va_loss: 0.617299, va_score: 0.680000
+te_loss: 0.543698, te_score: 0.740000
+
+time = 5
+tr_loss: 0.601912, tr_score: 0.698750
+va_loss: 0.580950, va_score: 0.710000
+te_loss: 0.542596, te_score: 0.760000
+
+time = 5
+tr_loss: 0.559868, tr_score: 0.702500
+va_loss: 0.488354, va_score: 0.810000
+te_loss: 0.609994, te_score: 0.720000
+
+time = 5
+tr_loss: 0.542010, tr_score: 0.735000
+va_loss: 0.535922, va_score: 0.770000
+te_loss: 0.610407, te_score: 0.700000
+
+time = 5
+tr_loss: 0.578159, tr_score: 0.702500
+va_loss: 0.589754, va_score: 0.710000
+te_loss: 0.575109, te_score: 0.750000
+
+time = 5
+tr_loss: 0.585272, tr_score: 0.712500
+va_loss: 0.583312, va_score: 0.740000
+te_loss: 0.579646, te_score: 0.740000
+
+time = 5
+tr_loss: 0.586125, tr_score: 0.720000
+va_loss: 0.671690, va_score: 0.610000
+te_loss: 0.591512, te_score: 0.720000
+
+time = 5
+tr_loss: 0.608281, tr_score: 0.687500
+va_loss: 0.497875, va_score: 0.790000
+te_loss: 0.587063, te_score: 0.720000
+
+time = 5
+tr_loss: 0.562744, tr_score: 0.722500
+va_loss: 0.550636, va_score: 0.740000
+te_loss: 0.557041, te_score: 0.730000
+
+time = 5
+tr_loss: 0.524455, tr_score: 0.731250
+va_loss: 0.521377, va_score: 0.740000
+te_loss: 0.608353, te_score: 0.670000
+
+time = 5
+tr_loss: 0.591737, tr_score: 0.710000
+va_loss: 0.602166, va_score: 0.700000
+te_loss: 0.603916, te_score: 0.680000
+
+time = 5
+tr_loss: 0.585956, tr_score: 0.702500
+va_loss: 0.505064, va_score: 0.780000
+te_loss: 0.650712, te_score: 0.640000
+
+time = 5
+tr_loss: 0.587596, tr_score: 0.701250
+va_loss: 0.614803, va_score: 0.680000
+te_loss: 0.574948, te_score: 0.720000
+
+time = 5
+tr_loss: 0.617895, tr_score: 0.692500
+va_loss: 0.547412, va_score: 0.780000
+te_loss: 0.633075, te_score: 0.680000
+
+time = 5
+tr_loss: 0.603352, tr_score: 0.703750
+va_loss: 0.514865, va_score: 0.790000
+te_loss: 0.720461, te_score: 0.600000
+
+time = 5
+tr_loss: 0.603614, tr_score: 0.711250
+va_loss: 0.631975, va_score: 0.660000
+te_loss: 0.642942, te_score: 0.690000
+
+======================================================
+5  Seed:  [1237. 6412. 2121. 6405. 4525. 1302. 1340. 7513. 9914. 1173. 2339. 2687.
+ 5417. 1769. 4522. 4161. 3470. 2003. 6862. 6659.]
+tr_loss: 0.575724, tr_score: 0.713250
+va_loss: 0.567640, va_score: 0.729500
+te_loss: 0.597500, te_score: 0.710500
+time = 6
+tr_loss: 0.592044, tr_score: 0.711250
+va_loss: 0.573310, va_score: 0.730000
+te_loss: 0.569449, te_score: 0.730000
+
+time = 6
+tr_loss: 0.613464, tr_score: 0.710000
+va_loss: 0.654933, va_score: 0.660000
+te_loss: 0.655023, te_score: 0.660000
+
+time = 6
+tr_loss: 0.613439, tr_score: 0.700000
+va_loss: 0.643527, va_score: 0.670000
+te_loss: 0.647359, te_score: 0.670000
+
+time = 6
+tr_loss: 0.589688, tr_score: 0.713750
+va_loss: 0.598405, va_score: 0.730000
+te_loss: 0.661900, te_score: 0.640000
+
+time = 6
+tr_loss: 0.601282, tr_score: 0.706250
+va_loss: 0.606519, va_score: 0.690000
+te_loss: 0.544507, te_score: 0.730000
+
+time = 6
+tr_loss: 0.559938, tr_score: 0.732500
+va_loss: 0.625181, va_score: 0.670000
+te_loss: 0.670914, te_score: 0.620000
+
+time = 6
+tr_loss: 0.543782, tr_score: 0.732500
+va_loss: 0.608605, va_score: 0.700000
+te_loss: 0.544723, te_score: 0.730000
+
+time = 6
+tr_loss: 0.592423, tr_score: 0.723750
+va_loss: 0.642166, va_score: 0.630000
+te_loss: 0.585335, te_score: 0.720000
+
+time = 6
+tr_loss: 0.617015, tr_score: 0.702500
+va_loss: 0.540166, va_score: 0.780000
+te_loss: 0.584500, te_score: 0.700000
+
+time = 6
+tr_loss: 0.587185, tr_score: 0.706250
+va_loss: 0.564635, va_score: 0.730000
+te_loss: 0.620382, te_score: 0.690000
+
+time = 6
+tr_loss: 0.577805, tr_score: 0.712500
+va_loss: 0.609668, va_score: 0.680000
+te_loss: 0.653534, te_score: 0.610000
+
+time = 6
+tr_loss: 0.581726, tr_score: 0.703750
+va_loss: 0.610556, va_score: 0.690000
+te_loss: 0.602120, te_score: 0.680000
+
+time = 6
+tr_loss: 0.604966, tr_score: 0.696250
+va_loss: 0.544406, va_score: 0.750000
+te_loss: 0.631708, te_score: 0.670000
+
+time = 6
+tr_loss: 0.615437, tr_score: 0.691250
+va_loss: 0.575671, va_score: 0.740000
+te_loss: 0.583594, te_score: 0.730000
+
+time = 6
+tr_loss: 0.586962, tr_score: 0.717500
+va_loss: 0.604405, va_score: 0.700000
+te_loss: 0.660816, te_score: 0.670000
+
+time = 6
+tr_loss: 0.542369, tr_score: 0.721250
+va_loss: 0.545429, va_score: 0.700000
+te_loss: 0.547700, te_score: 0.700000
+
+time = 6
+tr_loss: 0.543464, tr_score: 0.708750
+va_loss: 0.532011, va_score: 0.750000
+te_loss: 0.570036, te_score: 0.720000
+
+time = 6
+tr_loss: 0.583272, tr_score: 0.695000
+va_loss: 0.541194, va_score: 0.740000
+te_loss: 0.584549, te_score: 0.700000
+
+time = 6
+tr_loss: 0.601914, tr_score: 0.715000
+va_loss: 0.662051, va_score: 0.660000
+te_loss: 0.620567, te_score: 0.690000
+
+time = 6
+tr_loss: 0.584249, tr_score: 0.697500
+va_loss: 0.623438, va_score: 0.680000
+te_loss: 0.558970, te_score: 0.740000
+
+======================================================
+6  Seed:  [7694. 6294. 7622. 3529.   96. 7204. 5217. 3436.  887. 8110. 7803. 3805.
+ 1114. 2222. 9584. 2008. 1959. 4210.  576. 6097.]
+tr_loss: 0.586621, tr_score: 0.709875
+va_loss: 0.595314, va_score: 0.704000
+te_loss: 0.604884, te_score: 0.690000
+time = 7
+tr_loss: 0.558413, tr_score: 0.697500
+va_loss: 0.574020, va_score: 0.700000
+te_loss: 0.504615, te_score: 0.730000
+
+time = 7
+tr_loss: 0.586701, tr_score: 0.708750
+va_loss: 0.547333, va_score: 0.740000
+te_loss: 0.586513, te_score: 0.730000
+
+time = 7
+tr_loss: 0.552917, tr_score: 0.721250
+va_loss: 0.488847, va_score: 0.750000
+te_loss: 0.530762, te_score: 0.750000
+
+time = 7
+tr_loss: 0.573862, tr_score: 0.703750
+va_loss: 0.542537, va_score: 0.790000
+te_loss: 0.600482, te_score: 0.660000
+
+time = 7
+tr_loss: 0.585630, tr_score: 0.712500
+va_loss: 0.575776, va_score: 0.750000
+te_loss: 0.582862, te_score: 0.740000
+
+time = 7
+tr_loss: 0.567274, tr_score: 0.717500
+va_loss: 0.620461, va_score: 0.660000
+te_loss: 0.530514, te_score: 0.760000
+
+time = 7
+tr_loss: 0.607383, tr_score: 0.702500
+va_loss: 0.642648, va_score: 0.650000
+te_loss: 0.575139, te_score: 0.750000
+
+time = 7
+tr_loss: 0.552921, tr_score: 0.721250
+va_loss: 0.603103, va_score: 0.680000
+te_loss: 0.608855, te_score: 0.670000
+
+time = 7
+tr_loss: 0.543514, tr_score: 0.718750
+va_loss: 0.571695, va_score: 0.710000
+te_loss: 0.539326, te_score: 0.720000
+
+time = 7
+tr_loss: 0.503337, tr_score: 0.765000
+va_loss: 0.506091, va_score: 0.790000
+te_loss: 0.526127, te_score: 0.730000
+
+time = 7
+tr_loss: 0.566915, tr_score: 0.715000
+va_loss: 0.589557, va_score: 0.690000
+te_loss: 0.607439, te_score: 0.700000
+
+time = 7
+tr_loss: 0.561074, tr_score: 0.712500
+va_loss: 0.599962, va_score: 0.670000
+te_loss: 0.476964, te_score: 0.790000
+
+time = 7
+tr_loss: 0.595870, tr_score: 0.727500
+va_loss: 0.731938, va_score: 0.600000
+te_loss: 0.665072, te_score: 0.650000
+
+time = 7
+tr_loss: 0.618016, tr_score: 0.697500
+va_loss: 0.572846, va_score: 0.750000
+te_loss: 0.670750, te_score: 0.660000
+
+time = 7
+tr_loss: 0.579405, tr_score: 0.708750
+va_loss: 0.611055, va_score: 0.680000
+te_loss: 0.602624, te_score: 0.660000
+
+time = 7
+tr_loss: 0.543413, tr_score: 0.716250
+va_loss: 0.588967, va_score: 0.690000
+te_loss: 0.520765, te_score: 0.740000
+
+time = 7
+tr_loss: 0.595682, tr_score: 0.710000
+va_loss: 0.593297, va_score: 0.690000
+te_loss: 0.650192, te_score: 0.660000
+
+time = 7
+tr_loss: 0.628037, tr_score: 0.702500
+va_loss: 0.561141, va_score: 0.760000
+te_loss: 0.698522, te_score: 0.620000
+
+time = 7
+tr_loss: 0.553718, tr_score: 0.742500
+va_loss: 0.569994, va_score: 0.730000
+te_loss: 0.532116, te_score: 0.770000
+
+time = 7
+tr_loss: 0.539642, tr_score: 0.733750
+va_loss: 0.520847, va_score: 0.730000
+te_loss: 0.549475, te_score: 0.730000
+
+======================================================
+7  Seed:  [ 667. 3641. 1333. 4721. 6871. 9519. 4778.  927. 8338.   13. 3683. 6570.
+ 1422. 3821. 5722.  599. 3527. 1784. 1921. 2070.]
+tr_loss: 0.570686, tr_score: 0.716750
+va_loss: 0.580606, va_score: 0.710500
+te_loss: 0.577956, te_score: 0.711000
+time = 8
+tr_loss: 0.600669, tr_score: 0.688750
+va_loss: 0.613039, va_score: 0.690000
+te_loss: 0.518581, te_score: 0.790000
+
+time = 8
+tr_loss: 0.576967, tr_score: 0.707500
+va_loss: 0.673125, va_score: 0.600000
+te_loss: 0.538229, te_score: 0.760000
+
+time = 8
+tr_loss: 0.581249, tr_score: 0.713750
+va_loss: 0.594004, va_score: 0.690000
+te_loss: 0.570930, te_score: 0.730000
+
+time = 8
+tr_loss: 0.577711, tr_score: 0.717500
+va_loss: 0.611764, va_score: 0.720000
+te_loss: 0.555559, te_score: 0.740000
+
+time = 8
+tr_loss: 0.590841, tr_score: 0.707500
+va_loss: 0.583322, va_score: 0.750000
+te_loss: 0.588946, te_score: 0.730000
+
+time = 8
+tr_loss: 0.576888, tr_score: 0.721250
+va_loss: 0.619062, va_score: 0.640000
+te_loss: 0.608955, te_score: 0.660000
+
+time = 8
+tr_loss: 0.571590, tr_score: 0.712500
+va_loss: 0.542151, va_score: 0.710000
+te_loss: 0.639019, te_score: 0.660000
+
+time = 8
+tr_loss: 0.602525, tr_score: 0.693750
+va_loss: 0.491717, va_score: 0.790000
+te_loss: 0.611063, te_score: 0.680000
+
+time = 8
+tr_loss: 0.587181, tr_score: 0.700000
+va_loss: 0.609200, va_score: 0.690000
+te_loss: 0.540026, te_score: 0.760000
+
+time = 8
+tr_loss: 0.568527, tr_score: 0.738750
+va_loss: 0.658288, va_score: 0.640000
+te_loss: 0.625549, te_score: 0.730000
+
+time = 8
+tr_loss: 0.595831, tr_score: 0.683750
+va_loss: 0.510259, va_score: 0.790000
+te_loss: 0.528457, te_score: 0.770000
+
+time = 8
+tr_loss: 0.575732, tr_score: 0.716250
+va_loss: 0.552751, va_score: 0.780000
+te_loss: 0.608208, te_score: 0.700000
+
+time = 8
+tr_loss: 0.585631, tr_score: 0.722500
+va_loss: 0.607094, va_score: 0.690000
+te_loss: 0.623584, te_score: 0.660000
+
+time = 8
+tr_loss: 0.588338, tr_score: 0.703750
+va_loss: 0.530319, va_score: 0.770000
+te_loss: 0.575772, te_score: 0.710000
+
+time = 8
+tr_loss: 0.604032, tr_score: 0.703750
+va_loss: 0.590196, va_score: 0.680000
+te_loss: 0.577164, te_score: 0.710000
+
+time = 8
+tr_loss: 0.585325, tr_score: 0.716250
+va_loss: 0.562165, va_score: 0.740000
+te_loss: 0.728142, te_score: 0.600000
+
+time = 8
+tr_loss: 0.562088, tr_score: 0.721250
+va_loss: 0.534834, va_score: 0.730000
+te_loss: 0.564230, te_score: 0.740000
+
+time = 8
+tr_loss: 0.567613, tr_score: 0.715000
+va_loss: 0.579928, va_score: 0.720000
+te_loss: 0.584502, te_score: 0.700000
+
+time = 8
+tr_loss: 0.553702, tr_score: 0.702500
+va_loss: 0.575390, va_score: 0.700000
+te_loss: 0.585985, te_score: 0.710000
+
+time = 8
+tr_loss: 0.569216, tr_score: 0.736250
+va_loss: 0.587134, va_score: 0.720000
+te_loss: 0.662593, te_score: 0.640000
+
+======================================================
+8  Seed:  [4860. 8426. 6918. 8393. 2977. 1581. 7001.  814. 5947. 4477. 3311. 7270.
+ 5082. 4712. 7103. 6080. 5821. 8708. 4579. 2324.]
+tr_loss: 0.581083, tr_score: 0.711125
+va_loss: 0.581287, va_score: 0.712000
+te_loss: 0.591775, te_score: 0.709000
+time = 9
+tr_loss: 0.565567, tr_score: 0.718750
+va_loss: 0.531734, va_score: 0.780000
+te_loss: 0.576302, te_score: 0.690000
+
+time = 9
+tr_loss: 0.576877, tr_score: 0.728750
+va_loss: 0.632875, va_score: 0.630000
+te_loss: 0.559458, te_score: 0.720000
+
+time = 9
+tr_loss: 0.564261, tr_score: 0.726250
+va_loss: 0.554817, va_score: 0.700000
+te_loss: 0.622314, te_score: 0.660000
+
+time = 9
+tr_loss: 0.564982, tr_score: 0.713750
+va_loss: 0.559760, va_score: 0.700000
+te_loss: 0.608609, te_score: 0.670000
+
+time = 9
+tr_loss: 0.551019, tr_score: 0.716250
+va_loss: 0.513245, va_score: 0.770000
+te_loss: 0.635184, te_score: 0.630000
+
+time = 9
+tr_loss: 0.587172, tr_score: 0.717500
+va_loss: 0.569337, va_score: 0.710000
+te_loss: 0.602680, te_score: 0.710000
+
+time = 9
+tr_loss: 0.618716, tr_score: 0.683750
+va_loss: 0.589625, va_score: 0.710000
+te_loss: 0.591389, te_score: 0.720000
+
+time = 9
+tr_loss: 0.585921, tr_score: 0.700000
+va_loss: 0.555432, va_score: 0.710000
+te_loss: 0.620231, te_score: 0.650000
+
+time = 9
+tr_loss: 0.589595, tr_score: 0.697500
+va_loss: 0.594495, va_score: 0.690000
+te_loss: 0.550117, te_score: 0.740000
+
+time = 9
+tr_loss: 0.569014, tr_score: 0.703750
+va_loss: 0.633654, va_score: 0.660000
+te_loss: 0.569169, te_score: 0.730000
+
+time = 9
+tr_loss: 0.609749, tr_score: 0.695000
+va_loss: 0.626478, va_score: 0.660000
+te_loss: 0.605523, te_score: 0.680000
+
+time = 9
+tr_loss: 0.555281, tr_score: 0.721250
+va_loss: 0.498414, va_score: 0.750000
+te_loss: 0.521788, te_score: 0.730000
+
+time = 9
+tr_loss: 0.541090, tr_score: 0.736250
+va_loss: 0.610654, va_score: 0.680000
+te_loss: 0.508133, te_score: 0.740000
+
+time = 9
+tr_loss: 0.581456, tr_score: 0.708750
+va_loss: 0.589268, va_score: 0.720000
+te_loss: 0.548274, te_score: 0.750000
+
+time = 9
+tr_loss: 0.592406, tr_score: 0.723750
+va_loss: 0.671930, va_score: 0.610000
+te_loss: 0.637770, te_score: 0.680000
+
+time = 9
+tr_loss: 0.587092, tr_score: 0.698750
+va_loss: 0.559521, va_score: 0.710000
+te_loss: 0.600455, te_score: 0.710000
+
+time = 9
+tr_loss: 0.602656, tr_score: 0.703750
+va_loss: 0.604401, va_score: 0.710000
+te_loss: 0.636881, te_score: 0.660000
+
+time = 9
+tr_loss: 0.598759, tr_score: 0.710000
+va_loss: 0.645901, va_score: 0.670000
+te_loss: 0.659192, te_score: 0.650000
+
+time = 9
+tr_loss: 0.564555, tr_score: 0.711250
+va_loss: 0.578303, va_score: 0.720000
+te_loss: 0.586991, te_score: 0.670000
+
+time = 9
+tr_loss: 0.593153, tr_score: 0.698750
+va_loss: 0.575084, va_score: 0.680000
+te_loss: 0.593011, te_score: 0.710000
+
+======================================================
+9  Seed:  [9948.  542.  232.  666. 5686. 1955. 6679. 1732. 8003. 9621. 2645. 4622.
+ 2831. 7236. 6932. 8781. 1798. 9886. 2715. 5559.]
+tr_loss: 0.579966, tr_score: 0.710688
+va_loss: 0.584746, va_score: 0.698500
+te_loss: 0.591673, te_score: 0.695000
+time = 10
+tr_loss: 0.581702, tr_score: 0.696250
+va_loss: 0.559960, va_score: 0.720000
+te_loss: 0.544366, te_score: 0.730000
+
+time = 10
+tr_loss: 0.493693, tr_score: 0.762500
+va_loss: 0.506188, va_score: 0.770000
+te_loss: 0.494200, te_score: 0.770000
+
+time = 10
+tr_loss: 0.536724, tr_score: 0.750000
+va_loss: 0.560814, va_score: 0.730000
+te_loss: 0.669534, te_score: 0.600000
+
+time = 10
+tr_loss: 0.607060, tr_score: 0.705000
+va_loss: 0.574791, va_score: 0.770000
+te_loss: 0.568118, te_score: 0.740000
+
+time = 10
+tr_loss: 0.597411, tr_score: 0.713750
+va_loss: 0.598868, va_score: 0.700000
+te_loss: 0.561708, te_score: 0.760000
+
+time = 10
+tr_loss: 0.544250, tr_score: 0.745000
+va_loss: 0.508926, va_score: 0.730000
+te_loss: 0.567991, te_score: 0.660000
+
+time = 10
+tr_loss: 0.584591, tr_score: 0.703750
+va_loss: 0.519871, va_score: 0.760000
+te_loss: 0.539188, te_score: 0.730000
+
+time = 10
+tr_loss: 0.603118, tr_score: 0.675000
+va_loss: 0.499210, va_score: 0.820000
+te_loss: 0.568441, te_score: 0.750000
+
+time = 10
+tr_loss: 0.563791, tr_score: 0.730000
+va_loss: 0.598649, va_score: 0.700000
+te_loss: 0.609301, te_score: 0.650000
+
+time = 10
+tr_loss: 0.602083, tr_score: 0.692500
+va_loss: 0.577039, va_score: 0.750000
+te_loss: 0.575469, te_score: 0.740000
+
+time = 10
+tr_loss: 0.526442, tr_score: 0.756250
+va_loss: 0.590257, va_score: 0.710000
+te_loss: 0.545073, te_score: 0.750000
+
+time = 10
+tr_loss: 0.547484, tr_score: 0.718750
+va_loss: 0.617908, va_score: 0.660000
+te_loss: 0.570314, te_score: 0.720000
+
+time = 10
+tr_loss: 0.608586, tr_score: 0.695000
+va_loss: 0.600525, va_score: 0.720000
+te_loss: 0.576890, te_score: 0.710000
+
+time = 10
+tr_loss: 0.597210, tr_score: 0.692500
+va_loss: 0.535476, va_score: 0.750000
+te_loss: 0.515028, te_score: 0.820000
+
+time = 10
+tr_loss: 0.602727, tr_score: 0.701250
+va_loss: 0.679817, va_score: 0.670000
+te_loss: 0.668227, te_score: 0.640000
+
+time = 10
+tr_loss: 0.587320, tr_score: 0.696250
+va_loss: 0.570678, va_score: 0.740000
+te_loss: 0.564467, te_score: 0.740000
+
+time = 10
+tr_loss: 0.552240, tr_score: 0.740000
+va_loss: 0.485886, va_score: 0.790000
+te_loss: 0.565675, te_score: 0.720000
+
+time = 10
+tr_loss: 0.615063, tr_score: 0.697500
+va_loss: 0.621260, va_score: 0.690000
+te_loss: 0.609488, te_score: 0.730000
+
+time = 10
+tr_loss: 0.589790, tr_score: 0.703750
+va_loss: 0.579682, va_score: 0.730000
+te_loss: 0.595185, te_score: 0.700000
+
+time = 10
+tr_loss: 0.520967, tr_score: 0.750000
+va_loss: 0.658703, va_score: 0.640000
+te_loss: 0.540901, te_score: 0.720000
+
+======================================================
+10  Seed:  [9217. 8758. 9318. 9902. 9257. 5433. 4194. 5342. 6064. 1182. 7632. 9724.
+ 4507. 4141. 7028. 4431.  710. 9505. 6403. 3797.]
+tr_loss: 0.573113, tr_score: 0.716250
+va_loss: 0.572225, va_score: 0.727500
+te_loss: 0.572478, te_score: 0.719000
+time = 11
+tr_loss: 0.588766, tr_score: 0.705000
+va_loss: 0.502295, va_score: 0.810000
+te_loss: 0.640938, te_score: 0.630000
+
+time = 11
+tr_loss: 0.514725, tr_score: 0.743750
+va_loss: 0.594433, va_score: 0.660000
+te_loss: 0.636675, te_score: 0.670000
+
+time = 11
+tr_loss: 0.594043, tr_score: 0.698750
+va_loss: 0.595151, va_score: 0.680000
+te_loss: 0.586404, te_score: 0.740000
+
+time = 11
+tr_loss: 0.573364, tr_score: 0.722500
+va_loss: 0.617948, va_score: 0.690000
+te_loss: 0.508130, te_score: 0.770000
+
+time = 11
+tr_loss: 0.520886, tr_score: 0.752500
+va_loss: 0.576232, va_score: 0.760000
+te_loss: 0.525849, te_score: 0.690000
+
+time = 11
+tr_loss: 0.568580, tr_score: 0.716250
+va_loss: 0.575540, va_score: 0.710000
+te_loss: 0.535326, te_score: 0.760000
+
+time = 11
+tr_loss: 0.641812, tr_score: 0.710000
+va_loss: 0.697708, va_score: 0.660000
+te_loss: 0.675562, te_score: 0.660000
+
+time = 11
+tr_loss: 0.598843, tr_score: 0.706250
+va_loss: 0.513697, va_score: 0.810000
+te_loss: 0.643469, te_score: 0.670000
+
+time = 11
+tr_loss: 0.581168, tr_score: 0.706250
+va_loss: 0.627530, va_score: 0.690000
+te_loss: 0.577433, te_score: 0.740000
+
+time = 11
+tr_loss: 0.600885, tr_score: 0.706250
+va_loss: 0.601224, va_score: 0.680000
+te_loss: 0.632863, te_score: 0.690000
+
+time = 11
+tr_loss: 0.599683, tr_score: 0.697500
+va_loss: 0.631840, va_score: 0.670000
+te_loss: 0.518832, te_score: 0.780000
+
+time = 11
+tr_loss: 0.597156, tr_score: 0.726250
+va_loss: 0.687057, va_score: 0.650000
+te_loss: 0.742093, te_score: 0.580000
+
+time = 11
+tr_loss: 0.584742, tr_score: 0.730000
+va_loss: 0.633953, va_score: 0.670000
+te_loss: 0.666253, te_score: 0.660000
+
+time = 11
+tr_loss: 0.551793, tr_score: 0.736250
+va_loss: 0.546802, va_score: 0.720000
+te_loss: 0.598090, te_score: 0.670000
+
+time = 11
+tr_loss: 0.568635, tr_score: 0.705000
+va_loss: 0.553303, va_score: 0.760000
+te_loss: 0.619431, te_score: 0.700000
+
+time = 11
+tr_loss: 0.549067, tr_score: 0.747500
+va_loss: 0.629143, va_score: 0.640000
+te_loss: 0.549184, te_score: 0.740000
+
+time = 11
+tr_loss: 0.595865, tr_score: 0.697500
+va_loss: 0.557188, va_score: 0.750000
+te_loss: 0.646443, te_score: 0.670000
+
+time = 11
+tr_loss: 0.557424, tr_score: 0.706250
+va_loss: 0.527119, va_score: 0.730000
+te_loss: 0.611027, te_score: 0.680000
+
+time = 11
+tr_loss: 0.534676, tr_score: 0.728750
+va_loss: 0.498366, va_score: 0.770000
+te_loss: 0.573979, te_score: 0.680000
+
+time = 11
+tr_loss: 0.584368, tr_score: 0.708750
+va_loss: 0.520131, va_score: 0.810000
+te_loss: 0.600994, te_score: 0.700000
+
+======================================================
+11  Seed:  [ 276. 7096. 7576. 7225. 8005. 7496. 1258. 6191. 8489. 5152. 4572. 4247.
+ 5941. 8136.  978. 3169. 6643. 4121. 8439. 9382.]
+tr_loss: 0.575324, tr_score: 0.717563
+va_loss: 0.584333, va_score: 0.716000
+te_loss: 0.604449, te_score: 0.694000
+time = 12
+tr_loss: 0.592886, tr_score: 0.703750
+va_loss: 0.594873, va_score: 0.700000
+te_loss: 0.561388, te_score: 0.730000
+
+time = 12
+tr_loss: 0.566431, tr_score: 0.707500
+va_loss: 0.645023, va_score: 0.680000
+te_loss: 0.525080, te_score: 0.750000
+
+time = 12
+tr_loss: 0.549017, tr_score: 0.727500
+va_loss: 0.594197, va_score: 0.690000
+te_loss: 0.588489, te_score: 0.680000
+
+time = 12
+tr_loss: 0.579645, tr_score: 0.717500
+va_loss: 0.639167, va_score: 0.670000
+te_loss: 0.715300, te_score: 0.600000
+
+time = 12
+tr_loss: 0.556325, tr_score: 0.735000
+va_loss: 0.587096, va_score: 0.740000
+te_loss: 0.614904, te_score: 0.660000
+
+time = 12
+tr_loss: 0.586923, tr_score: 0.716250
+va_loss: 0.600948, va_score: 0.720000
+te_loss: 0.639595, te_score: 0.710000
+
+time = 12
+tr_loss: 0.629638, tr_score: 0.647500
+va_loss: 0.765531, va_score: 0.520000
+te_loss: 0.693309, te_score: 0.630000
+
+time = 12
+tr_loss: 0.575281, tr_score: 0.715000
+va_loss: 0.619382, va_score: 0.690000
+te_loss: 0.607549, te_score: 0.660000
+
+time = 12
+tr_loss: 0.585095, tr_score: 0.705000
+va_loss: 0.579801, va_score: 0.710000
+te_loss: 0.624433, te_score: 0.690000
+
+time = 12
+tr_loss: 0.566467, tr_score: 0.711250
+va_loss: 0.611703, va_score: 0.680000
+te_loss: 0.607760, te_score: 0.660000
+
+time = 12
+tr_loss: 0.579007, tr_score: 0.718750
+va_loss: 0.667962, va_score: 0.660000
+te_loss: 0.581030, te_score: 0.690000
+
+time = 12
+tr_loss: 0.597293, tr_score: 0.705000
+va_loss: 0.571282, va_score: 0.730000
+te_loss: 0.620588, te_score: 0.700000
+
+time = 12
+tr_loss: 0.578082, tr_score: 0.725000
+va_loss: 0.622398, va_score: 0.680000
+te_loss: 0.642965, te_score: 0.690000
+
+time = 12
+tr_loss: 0.523311, tr_score: 0.770000
+va_loss: 0.505303, va_score: 0.760000
+te_loss: 0.536194, te_score: 0.750000
+
+time = 12
+tr_loss: 0.562761, tr_score: 0.721250
+va_loss: 0.537121, va_score: 0.790000
+te_loss: 0.622470, te_score: 0.620000
+
+time = 12
+tr_loss: 0.556723, tr_score: 0.726250
+va_loss: 0.578099, va_score: 0.690000
+te_loss: 0.568313, te_score: 0.750000
+
+time = 12
+tr_loss: 0.601889, tr_score: 0.710000
+va_loss: 0.651499, va_score: 0.650000
+te_loss: 0.559506, te_score: 0.750000
+
+time = 12
+tr_loss: 0.562759, tr_score: 0.727500
+va_loss: 0.571489, va_score: 0.730000
+te_loss: 0.535459, te_score: 0.760000
+
+time = 12
+tr_loss: 0.527597, tr_score: 0.732500
+va_loss: 0.590516, va_score: 0.700000
+te_loss: 0.530005, te_score: 0.730000
+
+time = 12
+tr_loss: 0.542109, tr_score: 0.730000
+va_loss: 0.630551, va_score: 0.640000
+te_loss: 0.580758, te_score: 0.690000
+
+======================================================
+12  Seed:  [5995. 5359. 4959. 8841. 2084. 6283. 5803. 5547. 5856. 6466. 1029. 9406.
+ 1119. 6504. 6270.   89. 4601. 8528. 5236. 3309.]
+tr_loss: 0.570962, tr_score: 0.717625
+va_loss: 0.608197, va_score: 0.691500
+te_loss: 0.597755, te_score: 0.695000
+time = 13
+tr_loss: 0.574282, tr_score: 0.717500
+va_loss: 0.592632, va_score: 0.680000
+te_loss: 0.544601, te_score: 0.710000
+
+time = 13
+tr_loss: 0.574651, tr_score: 0.722500
+va_loss: 0.502884, va_score: 0.820000
+te_loss: 0.548558, te_score: 0.720000
+
+time = 13
+tr_loss: 0.611009, tr_score: 0.676250
+va_loss: 0.585060, va_score: 0.700000
+te_loss: 0.808446, te_score: 0.500000
+
+time = 13
+tr_loss: 0.625309, tr_score: 0.696250
+va_loss: 0.626924, va_score: 0.660000
+te_loss: 0.586446, te_score: 0.750000
+
+time = 13
+tr_loss: 0.610118, tr_score: 0.697500
+va_loss: 0.601186, va_score: 0.710000
+te_loss: 0.597503, te_score: 0.710000
+
+time = 13
+tr_loss: 0.595948, tr_score: 0.707500
+va_loss: 0.713289, va_score: 0.660000
+te_loss: 0.594838, te_score: 0.680000
+
+time = 13
+tr_loss: 0.550072, tr_score: 0.727500
+va_loss: 0.599034, va_score: 0.690000
+te_loss: 0.567974, te_score: 0.720000
+
+time = 13
+tr_loss: 0.591374, tr_score: 0.708750
+va_loss: 0.571778, va_score: 0.740000
+te_loss: 0.597436, te_score: 0.690000
+
+time = 13
+tr_loss: 0.577472, tr_score: 0.706250
+va_loss: 0.552228, va_score: 0.750000
+te_loss: 0.534301, te_score: 0.760000
+
+time = 13
+tr_loss: 0.548986, tr_score: 0.721250
+va_loss: 0.621265, va_score: 0.600000
+te_loss: 0.517639, te_score: 0.780000
+
+time = 13
+tr_loss: 0.584159, tr_score: 0.708750
+va_loss: 0.593228, va_score: 0.700000
+te_loss: 0.675446, te_score: 0.610000
+
+time = 13
+tr_loss: 0.579572, tr_score: 0.690000
+va_loss: 0.629891, va_score: 0.660000
+te_loss: 0.567072, te_score: 0.690000
+
+time = 13
+tr_loss: 0.581880, tr_score: 0.710000
+va_loss: 0.610276, va_score: 0.680000
+te_loss: 0.582178, te_score: 0.710000
+
+time = 13
+tr_loss: 0.579879, tr_score: 0.712500
+va_loss: 0.553623, va_score: 0.740000
+te_loss: 0.575122, te_score: 0.700000
+
+time = 13
+tr_loss: 0.638319, tr_score: 0.693750
+va_loss: 0.593465, va_score: 0.740000
+te_loss: 0.502898, te_score: 0.780000
+
+time = 13
+tr_loss: 0.594082, tr_score: 0.715000
+va_loss: 0.602739, va_score: 0.730000
+te_loss: 0.631940, te_score: 0.660000
+
+time = 13
+tr_loss: 0.560633, tr_score: 0.721250
+va_loss: 0.587377, va_score: 0.690000
+te_loss: 0.633321, te_score: 0.650000
+
+time = 13
+tr_loss: 0.609071, tr_score: 0.692500
+va_loss: 0.572697, va_score: 0.740000
+te_loss: 0.600697, te_score: 0.730000
+
+time = 13
+tr_loss: 0.601843, tr_score: 0.692500
+va_loss: 0.531338, va_score: 0.780000
+te_loss: 0.630950, te_score: 0.650000
+
+time = 13
+tr_loss: 0.578122, tr_score: 0.718750
+va_loss: 0.590278, va_score: 0.760000
+te_loss: 0.546948, te_score: 0.790000
+
+======================================================
+13  Seed:  [3706. 3756. 2533. 6590. 1761. 5957. 4965. 8699. 1302.  214. 1426. 3422.
+ 9979.   35. 8073. 6183. 7853. 8174. 4923.  725.]
+tr_loss: 0.588339, tr_score: 0.706813
+va_loss: 0.591559, va_score: 0.711500
+te_loss: 0.592216, te_score: 0.699500
+time = 14
+tr_loss: 0.601916, tr_score: 0.698750
+va_loss: 0.606215, va_score: 0.710000
+te_loss: 0.581134, te_score: 0.710000
+
+time = 14
+tr_loss: 0.582183, tr_score: 0.711250
+va_loss: 0.640218, va_score: 0.640000
+te_loss: 0.569163, te_score: 0.700000
+
+time = 14
+tr_loss: 0.552286, tr_score: 0.725000
+va_loss: 0.545092, va_score: 0.730000
+te_loss: 0.550431, te_score: 0.720000
+
+time = 14
+tr_loss: 0.509589, tr_score: 0.771250
+va_loss: 0.510895, va_score: 0.790000
+te_loss: 0.504035, te_score: 0.820000
+
+time = 14
+tr_loss: 0.598406, tr_score: 0.705000
+va_loss: 0.617575, va_score: 0.690000
+te_loss: 0.646582, te_score: 0.680000
+
+time = 14
+tr_loss: 0.605734, tr_score: 0.705000
+va_loss: 0.578391, va_score: 0.730000
+te_loss: 0.667687, te_score: 0.640000
+
+time = 14
+tr_loss: 0.607663, tr_score: 0.698750
+va_loss: 0.577613, va_score: 0.790000
+te_loss: 0.626989, te_score: 0.680000
+
+time = 14
+tr_loss: 0.569971, tr_score: 0.725000
+va_loss: 0.573958, va_score: 0.730000
+te_loss: 0.574236, te_score: 0.690000
+
+time = 14
+tr_loss: 0.578654, tr_score: 0.702500
+va_loss: 0.556473, va_score: 0.780000
+te_loss: 0.565417, te_score: 0.720000
+
+time = 14
+tr_loss: 0.591517, tr_score: 0.710000
+va_loss: 0.512275, va_score: 0.790000
+te_loss: 0.659015, te_score: 0.640000
+
+time = 14
+tr_loss: 0.597724, tr_score: 0.696250
+va_loss: 0.511522, va_score: 0.760000
+te_loss: 0.551301, te_score: 0.740000
+
+time = 14
+tr_loss: 0.597887, tr_score: 0.708750
+va_loss: 0.596265, va_score: 0.700000
+te_loss: 0.590420, te_score: 0.710000
+
+time = 14
+tr_loss: 0.571339, tr_score: 0.707500
+va_loss: 0.552017, va_score: 0.740000
+te_loss: 0.611703, te_score: 0.660000
+
+time = 14
+tr_loss: 0.541001, tr_score: 0.727500
+va_loss: 0.538176, va_score: 0.760000
+te_loss: 0.517219, te_score: 0.760000
+
+time = 14
+tr_loss: 0.554933, tr_score: 0.727500
+va_loss: 0.643560, va_score: 0.670000
+te_loss: 0.616297, te_score: 0.720000
+
+time = 14
+tr_loss: 0.612628, tr_score: 0.698750
+va_loss: 0.566686, va_score: 0.760000
+te_loss: 0.556013, te_score: 0.760000
+
+time = 14
+tr_loss: 0.534042, tr_score: 0.762500
+va_loss: 0.478401, va_score: 0.820000
+te_loss: 0.605086, te_score: 0.680000
+
+time = 14
+tr_loss: 0.605827, tr_score: 0.702500
+va_loss: 0.668760, va_score: 0.680000
+te_loss: 0.629725, te_score: 0.720000
+
+time = 14
+tr_loss: 0.604457, tr_score: 0.695000
+va_loss: 0.663904, va_score: 0.680000
+te_loss: 0.608505, te_score: 0.700000
+
+time = 14
+tr_loss: 0.561109, tr_score: 0.712500
+va_loss: 0.567687, va_score: 0.710000
+te_loss: 0.526617, te_score: 0.750000
+
+======================================================
+14  Seed:  [6736. 9332. 4026. 8791. 2185. 8095. 4925. 3877. 8332. 6847. 5871. 5004.
+ 2796. 4961. 1467. 7787. 3868. 5255. 9307. 9073.]
+tr_loss: 0.578943, tr_score: 0.714563
+va_loss: 0.575284, va_score: 0.733000
+te_loss: 0.587879, te_score: 0.710000
+time = 15
+tr_loss: 0.568858, tr_score: 0.715000
+va_loss: 0.573023, va_score: 0.710000
+te_loss: 0.608881, te_score: 0.680000
+
+time = 15
+tr_loss: 0.622019, tr_score: 0.688750
+va_loss: 0.591963, va_score: 0.730000
+te_loss: 0.567258, te_score: 0.760000
+
+time = 15
+tr_loss: 0.615012, tr_score: 0.691250
+va_loss: 0.584564, va_score: 0.710000
+te_loss: 0.668153, te_score: 0.650000
+
+time = 15
+tr_loss: 0.580594, tr_score: 0.698750
+va_loss: 0.526457, va_score: 0.750000
+te_loss: 0.648662, te_score: 0.660000
+
+time = 15
+tr_loss: 0.510822, tr_score: 0.742500
+va_loss: 0.483206, va_score: 0.790000
+te_loss: 0.502575, te_score: 0.760000
+
+time = 15
+tr_loss: 0.545037, tr_score: 0.736250
+va_loss: 0.608822, va_score: 0.700000
+te_loss: 0.614981, te_score: 0.660000
+
+time = 15
+tr_loss: 0.577473, tr_score: 0.717500
+va_loss: 0.568558, va_score: 0.750000
+te_loss: 0.563625, te_score: 0.680000
+
+time = 15
+tr_loss: 0.601322, tr_score: 0.697500
+va_loss: 0.593343, va_score: 0.710000
+te_loss: 0.609596, te_score: 0.720000
+
+time = 15
+tr_loss: 0.608605, tr_score: 0.682500
+va_loss: 0.604364, va_score: 0.670000
+te_loss: 0.584188, te_score: 0.700000
+
+time = 15
+tr_loss: 0.601010, tr_score: 0.706250
+va_loss: 0.636666, va_score: 0.640000
+te_loss: 0.594826, te_score: 0.710000
+
+time = 15
+tr_loss: 0.568273, tr_score: 0.728750
+va_loss: 0.557003, va_score: 0.720000
+te_loss: 0.557716, te_score: 0.740000
+
+time = 15
+tr_loss: 0.578725, tr_score: 0.715000
+va_loss: 0.579612, va_score: 0.730000
+te_loss: 0.620467, te_score: 0.690000
+
+time = 15
+tr_loss: 0.566286, tr_score: 0.711250
+va_loss: 0.544194, va_score: 0.750000
+te_loss: 0.596107, te_score: 0.690000
+
+time = 15
+tr_loss: 0.578009, tr_score: 0.710000
+va_loss: 0.598429, va_score: 0.680000
+te_loss: 0.585018, te_score: 0.680000
+
+time = 15
+tr_loss: 0.588288, tr_score: 0.703750
+va_loss: 0.601070, va_score: 0.680000
+te_loss: 0.618584, te_score: 0.700000
+
+time = 15
+tr_loss: 0.611186, tr_score: 0.710000
+va_loss: 0.676720, va_score: 0.660000
+te_loss: 0.733307, te_score: 0.650000
+
+time = 15
+tr_loss: 0.577811, tr_score: 0.710000
+va_loss: 0.550181, va_score: 0.740000
+te_loss: 0.653124, te_score: 0.660000
+
+time = 15
+tr_loss: 0.584769, tr_score: 0.716250
+va_loss: 0.593634, va_score: 0.670000
+te_loss: 0.638580, te_score: 0.690000
+
+time = 15
+tr_loss: 0.583871, tr_score: 0.703750
+va_loss: 0.564437, va_score: 0.720000
+te_loss: 0.593958, te_score: 0.680000
+
+time = 15
+tr_loss: 0.582254, tr_score: 0.707500
+va_loss: 0.578736, va_score: 0.690000
+te_loss: 0.562204, te_score: 0.720000
+
+======================================================
+15  Seed:  [ 879. 4612.  287.  491. 3659. 8251. 7507. 1140. 3507. 4318. 9716. 8900.
+ 3870. 2555. 7340. 8792.  757. 6674. 3143.  691.]
+tr_loss: 0.582511, tr_score: 0.709625
+va_loss: 0.580749, va_score: 0.710000
+te_loss: 0.606091, te_score: 0.694000
+time = 16
+tr_loss: 0.568633, tr_score: 0.718750
+va_loss: 0.529981, va_score: 0.760000
+te_loss: 0.542887, te_score: 0.750000
+
+time = 16
+tr_loss: 0.558019, tr_score: 0.725000
+va_loss: 0.584762, va_score: 0.730000
+te_loss: 0.616279, te_score: 0.650000
+
+time = 16
+tr_loss: 0.559408, tr_score: 0.715000
+va_loss: 0.543997, va_score: 0.740000
+te_loss: 0.600776, te_score: 0.710000
+
+time = 16
+tr_loss: 0.621300, tr_score: 0.678750
+va_loss: 0.620238, va_score: 0.680000
+te_loss: 0.590551, te_score: 0.710000
+
+time = 16
+tr_loss: 0.578067, tr_score: 0.707500
+va_loss: 0.545594, va_score: 0.740000
+te_loss: 0.602769, te_score: 0.670000
+
+time = 16
+tr_loss: 0.555916, tr_score: 0.721250
+va_loss: 0.611160, va_score: 0.700000
+te_loss: 0.627680, te_score: 0.670000
+
+time = 16
+tr_loss: 0.555740, tr_score: 0.726250
+va_loss: 0.563715, va_score: 0.680000
+te_loss: 0.534676, te_score: 0.720000
+
+time = 16
+tr_loss: 0.549563, tr_score: 0.726250
+va_loss: 0.583102, va_score: 0.670000
+te_loss: 0.554718, te_score: 0.690000
+
+time = 16
+tr_loss: 0.567207, tr_score: 0.723750
+va_loss: 0.592390, va_score: 0.720000
+te_loss: 0.542859, te_score: 0.740000
+
+time = 16
+tr_loss: 0.611816, tr_score: 0.708750
+va_loss: 0.657396, va_score: 0.660000
+te_loss: 0.638638, te_score: 0.670000
+
+time = 16
+tr_loss: 0.582075, tr_score: 0.723750
+va_loss: 0.600696, va_score: 0.710000
+te_loss: 0.626874, te_score: 0.680000
+
+time = 16
+tr_loss: 0.551711, tr_score: 0.711250
+va_loss: 0.616782, va_score: 0.680000
+te_loss: 0.631647, te_score: 0.660000
+
+time = 16
+tr_loss: 0.592214, tr_score: 0.708750
+va_loss: 0.690254, va_score: 0.650000
+te_loss: 0.554103, te_score: 0.730000
+
+time = 16
+tr_loss: 0.584648, tr_score: 0.692500
+va_loss: 0.525744, va_score: 0.780000
+te_loss: 0.508505, te_score: 0.780000
+
+time = 16
+tr_loss: 0.596041, tr_score: 0.710000
+va_loss: 0.525943, va_score: 0.760000
+te_loss: 0.533079, te_score: 0.740000
+
+time = 16
+tr_loss: 0.578848, tr_score: 0.717500
+va_loss: 0.644325, va_score: 0.630000
+te_loss: 0.623390, te_score: 0.670000
+
+time = 16
+tr_loss: 0.579771, tr_score: 0.712500
+va_loss: 0.562692, va_score: 0.740000
+te_loss: 0.582542, te_score: 0.700000
+
+time = 16
+tr_loss: 0.587826, tr_score: 0.703750
+va_loss: 0.627633, va_score: 0.650000
+te_loss: 0.590104, te_score: 0.710000
+
+time = 16
+tr_loss: 0.602202, tr_score: 0.683750
+va_loss: 0.500265, va_score: 0.790000
+te_loss: 0.596215, te_score: 0.700000
+
+time = 16
+tr_loss: 0.597276, tr_score: 0.702500
+va_loss: 0.655527, va_score: 0.680000
+te_loss: 0.562372, te_score: 0.740000
+
+======================================================
+16  Seed:  [9082. 6878.  978. 6918.   35. 3547.  812. 1562. 5243. 8191. 5330. 4602.
+ 2929. 4830.  303. 9956. 3156. 7475. 4637.  734.]
+tr_loss: 0.578914, tr_score: 0.710875
+va_loss: 0.589110, va_score: 0.707500
+te_loss: 0.583033, te_score: 0.704500
+time = 17
+tr_loss: 0.580356, tr_score: 0.713750
+va_loss: 0.609348, va_score: 0.710000
+te_loss: 0.591302, te_score: 0.700000
+
+time = 17
+tr_loss: 0.551969, tr_score: 0.717500
+va_loss: 0.624604, va_score: 0.650000
+te_loss: 0.595008, te_score: 0.740000
+
+time = 17
+tr_loss: 0.580432, tr_score: 0.716250
+va_loss: 0.636936, va_score: 0.660000
+te_loss: 0.558729, te_score: 0.700000
+
+time = 17
+tr_loss: 0.574209, tr_score: 0.712500
+va_loss: 0.652206, va_score: 0.630000
+te_loss: 0.593359, te_score: 0.680000
+
+time = 17
+tr_loss: 0.610834, tr_score: 0.686250
+va_loss: 0.562104, va_score: 0.770000
+te_loss: 0.560069, te_score: 0.730000
+
+time = 17
+tr_loss: 0.540474, tr_score: 0.730000
+va_loss: 0.522511, va_score: 0.720000
+te_loss: 0.580770, te_score: 0.670000
+
+time = 17
+tr_loss: 0.607795, tr_score: 0.663750
+va_loss: 0.701008, va_score: 0.580000
+te_loss: 0.631023, te_score: 0.670000
+
+time = 17
+tr_loss: 0.506422, tr_score: 0.761250
+va_loss: 0.552484, va_score: 0.740000
+te_loss: 0.652004, te_score: 0.620000
+
+time = 17
+tr_loss: 0.568651, tr_score: 0.718750
+va_loss: 0.547922, va_score: 0.720000
+te_loss: 0.542197, te_score: 0.700000
+
+time = 17
+tr_loss: 0.586410, tr_score: 0.722500
+va_loss: 0.604539, va_score: 0.710000
+te_loss: 0.670495, te_score: 0.650000
+
+time = 17
+tr_loss: 0.541260, tr_score: 0.731250
+va_loss: 0.607199, va_score: 0.710000
+te_loss: 0.614787, te_score: 0.650000
+
+time = 17
+tr_loss: 0.608988, tr_score: 0.707500
+va_loss: 0.624056, va_score: 0.680000
+te_loss: 0.632481, te_score: 0.680000
+
+time = 17
+tr_loss: 0.637431, tr_score: 0.700000
+va_loss: 0.671822, va_score: 0.670000
+te_loss: 0.634926, te_score: 0.730000
+
+time = 17
+tr_loss: 0.621551, tr_score: 0.692500
+va_loss: 0.581924, va_score: 0.740000
+te_loss: 0.545289, te_score: 0.770000
+
+time = 17
+tr_loss: 0.539706, tr_score: 0.733750
+va_loss: 0.619474, va_score: 0.660000
+te_loss: 0.621662, te_score: 0.700000
+
+time = 17
+tr_loss: 0.534680, tr_score: 0.746250
+va_loss: 0.489776, va_score: 0.750000
+te_loss: 0.535731, te_score: 0.740000
+
+time = 17
+tr_loss: 0.629337, tr_score: 0.663750
+va_loss: 0.699285, va_score: 0.600000
+te_loss: 0.646942, te_score: 0.620000
+
+time = 17
+tr_loss: 0.558863, tr_score: 0.726250
+va_loss: 0.542047, va_score: 0.760000
+te_loss: 0.536472, te_score: 0.730000
+
+time = 17
+tr_loss: 0.559163, tr_score: 0.703750
+va_loss: 0.529999, va_score: 0.740000
+te_loss: 0.574959, te_score: 0.710000
+
+time = 17
+tr_loss: 0.571267, tr_score: 0.715000
+va_loss: 0.579913, va_score: 0.710000
+te_loss: 0.619626, te_score: 0.680000
+
+======================================================
+17  Seed:  [9997. 6891. 7283.  296. 4194.  627. 9187. 9699.  412. 3964. 5059. 1882.
+ 6859. 7098. 9012. 6459. 3018. 8410. 9321. 1260.]
+tr_loss: 0.575490, tr_score: 0.713125
+va_loss: 0.597958, va_score: 0.695500
+te_loss: 0.596892, te_score: 0.693500
+time = 18
+tr_loss: 0.574982, tr_score: 0.702500
+va_loss: 0.532783, va_score: 0.730000
+te_loss: 0.557118, te_score: 0.750000
+
+time = 18
+tr_loss: 0.585044, tr_score: 0.695000
+va_loss: 0.565062, va_score: 0.730000
+te_loss: 0.547960, te_score: 0.710000
+
+time = 18
+tr_loss: 0.597348, tr_score: 0.706250
+va_loss: 0.581137, va_score: 0.740000
+te_loss: 0.603986, te_score: 0.680000
+
+time = 18
+tr_loss: 0.585976, tr_score: 0.698750
+va_loss: 0.594732, va_score: 0.710000
+te_loss: 0.575172, te_score: 0.720000
+
+time = 18
+tr_loss: 0.590278, tr_score: 0.708750
+va_loss: 0.618971, va_score: 0.720000
+te_loss: 0.516623, te_score: 0.800000
+
+time = 18
+tr_loss: 0.604321, tr_score: 0.676250
+va_loss: 0.552414, va_score: 0.730000
+te_loss: 0.589402, te_score: 0.710000
+
+time = 18
+tr_loss: 0.573432, tr_score: 0.712500
+va_loss: 0.613133, va_score: 0.660000
+te_loss: 0.537303, te_score: 0.760000
+
+time = 18
+tr_loss: 0.562972, tr_score: 0.736250
+va_loss: 0.597129, va_score: 0.720000
+te_loss: 0.703197, te_score: 0.600000
+
+time = 18
+tr_loss: 0.593552, tr_score: 0.702500
+va_loss: 0.575742, va_score: 0.730000
+te_loss: 0.640889, te_score: 0.650000
+
+time = 18
+tr_loss: 0.575365, tr_score: 0.705000
+va_loss: 0.570192, va_score: 0.680000
+te_loss: 0.621747, te_score: 0.680000
+
+time = 18
+tr_loss: 0.611744, tr_score: 0.700000
+va_loss: 0.644289, va_score: 0.650000
+te_loss: 0.595734, te_score: 0.740000
+
+time = 18
+tr_loss: 0.519143, tr_score: 0.747500
+va_loss: 0.550253, va_score: 0.730000
+te_loss: 0.562575, te_score: 0.750000
+
+time = 18
+tr_loss: 0.592803, tr_score: 0.700000
+va_loss: 0.596961, va_score: 0.680000
+te_loss: 0.598514, te_score: 0.730000
+
+time = 18
+tr_loss: 0.586074, tr_score: 0.693750
+va_loss: 0.556599, va_score: 0.710000
+te_loss: 0.552518, te_score: 0.750000
+
+time = 18
+tr_loss: 0.620443, tr_score: 0.661250
+va_loss: 0.564311, va_score: 0.730000
+te_loss: 0.555412, te_score: 0.740000
+
+time = 18
+tr_loss: 0.601905, tr_score: 0.698750
+va_loss: 0.547852, va_score: 0.740000
+te_loss: 0.562986, te_score: 0.740000
+
+time = 18
+tr_loss: 0.560831, tr_score: 0.713750
+va_loss: 0.606935, va_score: 0.700000
+te_loss: 0.576284, te_score: 0.710000
+
+time = 18
+tr_loss: 0.615737, tr_score: 0.698750
+va_loss: 0.607740, va_score: 0.710000
+te_loss: 0.643288, te_score: 0.660000
+
+time = 18
+tr_loss: 0.551839, tr_score: 0.723750
+va_loss: 0.557039, va_score: 0.740000
+te_loss: 0.639133, te_score: 0.670000
+
+time = 18
+tr_loss: 0.620874, tr_score: 0.695000
+va_loss: 0.629657, va_score: 0.740000
+te_loss: 0.643755, te_score: 0.700000
+
+======================================================
+18  Seed:  [ 873. 4207. 9606. 9170. 6333. 9407. 8590.  438. 6112. 2282. 5826. 4132.
+ 5788. 3773.  899. 1544. 7119. 3120. 1138. 3253.]
+tr_loss: 0.586233, tr_score: 0.703813
+va_loss: 0.583146, va_score: 0.714000
+te_loss: 0.591180, te_score: 0.712500
+time = 19
+tr_loss: 0.575066, tr_score: 0.725000
+va_loss: 0.637882, va_score: 0.670000
+te_loss: 0.639268, te_score: 0.680000
+
+time = 19
+tr_loss: 0.582191, tr_score: 0.712500
+va_loss: 0.615223, va_score: 0.690000
+te_loss: 0.637505, te_score: 0.620000
+
+time = 19
+tr_loss: 0.607509, tr_score: 0.693750
+va_loss: 0.519402, va_score: 0.760000
+te_loss: 0.604167, te_score: 0.690000
+
+time = 19
+tr_loss: 0.548668, tr_score: 0.726250
+va_loss: 0.535571, va_score: 0.730000
+te_loss: 0.558810, te_score: 0.720000
+
+time = 19
+tr_loss: 0.596216, tr_score: 0.693750
+va_loss: 0.593336, va_score: 0.720000
+te_loss: 0.546222, te_score: 0.730000
+
+time = 19
+tr_loss: 0.588897, tr_score: 0.703750
+va_loss: 0.579286, va_score: 0.710000
+te_loss: 0.625128, te_score: 0.670000
+
+time = 19
+tr_loss: 0.562103, tr_score: 0.717500
+va_loss: 0.544831, va_score: 0.730000
+te_loss: 0.581031, te_score: 0.690000
+
+time = 19
+tr_loss: 0.586291, tr_score: 0.707500
+va_loss: 0.628638, va_score: 0.670000
+te_loss: 0.632910, te_score: 0.670000
+
+time = 19
+tr_loss: 0.550045, tr_score: 0.728750
+va_loss: 0.616163, va_score: 0.660000
+te_loss: 0.550994, te_score: 0.760000
+
+time = 19
+tr_loss: 0.623753, tr_score: 0.705000
+va_loss: 0.641777, va_score: 0.670000
+te_loss: 0.632843, te_score: 0.690000
+
+time = 19
+tr_loss: 0.578412, tr_score: 0.716250
+va_loss: 0.589093, va_score: 0.680000
+te_loss: 0.601764, te_score: 0.720000
+
+time = 19
+tr_loss: 0.604643, tr_score: 0.701250
+va_loss: 0.601244, va_score: 0.710000
+te_loss: 0.632540, te_score: 0.680000
+
+time = 19
+tr_loss: 0.596807, tr_score: 0.706250
+va_loss: 0.680955, va_score: 0.660000
+te_loss: 0.683061, te_score: 0.650000
+
+time = 19
+tr_loss: 0.588911, tr_score: 0.695000
+va_loss: 0.603760, va_score: 0.710000
+te_loss: 0.600776, te_score: 0.730000
+
+time = 19
+tr_loss: 0.614624, tr_score: 0.693750
+va_loss: 0.612925, va_score: 0.690000
+te_loss: 0.525113, te_score: 0.740000
+
+time = 19
+tr_loss: 0.587066, tr_score: 0.680000
+va_loss: 0.567773, va_score: 0.660000
+te_loss: 0.548471, te_score: 0.720000
+
+time = 19
+tr_loss: 0.573245, tr_score: 0.725000
+va_loss: 0.630130, va_score: 0.680000
+te_loss: 0.617995, te_score: 0.690000
+
+time = 19
+tr_loss: 0.594487, tr_score: 0.712500
+va_loss: 0.636311, va_score: 0.670000
+te_loss: 0.575994, te_score: 0.730000
+
+time = 19
+tr_loss: 0.593837, tr_score: 0.707500
+va_loss: 0.582448, va_score: 0.720000
+te_loss: 0.584273, te_score: 0.710000
+
+time = 19
+tr_loss: 0.598508, tr_score: 0.667500
+va_loss: 0.605899, va_score: 0.650000
+te_loss: 0.616101, te_score: 0.610000
+
+======================================================
+19  Seed:  [3709. 6253. 7969. 4492. 4878.  212. 2129. 7387.  610. 9877. 6936. 8416.
+ 1824. 6324. 9841. 5493. 7619. 7977.  518. 1963.]
+tr_loss: 0.587564, tr_score: 0.705937
+va_loss: 0.601132, va_score: 0.692000
+te_loss: 0.599748, te_score: 0.695000
+time = 20
+tr_loss: 0.533374, tr_score: 0.746250
+va_loss: 0.535358, va_score: 0.750000
+te_loss: 0.529057, te_score: 0.730000
+
+time = 20
+tr_loss: 0.602446, tr_score: 0.693750
+va_loss: 0.577810, va_score: 0.750000
+te_loss: 0.568895, te_score: 0.710000
+
+time = 20
+tr_loss: 0.570107, tr_score: 0.706250
+va_loss: 0.583672, va_score: 0.710000
+te_loss: 0.621452, te_score: 0.690000
+
+time = 20
+tr_loss: 0.585050, tr_score: 0.702500
+va_loss: 0.640697, va_score: 0.700000
+te_loss: 0.520944, te_score: 0.800000
+
+time = 20
+tr_loss: 0.531246, tr_score: 0.738750
+va_loss: 0.611871, va_score: 0.690000
+te_loss: 0.524129, te_score: 0.730000
+
+time = 20
+tr_loss: 0.551957, tr_score: 0.730000
+va_loss: 0.523916, va_score: 0.770000
+te_loss: 0.522692, te_score: 0.770000
+
+time = 20
+tr_loss: 0.619997, tr_score: 0.692500
+va_loss: 0.533532, va_score: 0.760000
+te_loss: 0.618286, te_score: 0.700000
+
+time = 20
+tr_loss: 0.600772, tr_score: 0.721250
+va_loss: 0.624660, va_score: 0.620000
+te_loss: 0.588160, te_score: 0.720000
+
+time = 20
+tr_loss: 0.603986, tr_score: 0.686250
+va_loss: 0.608854, va_score: 0.660000
+te_loss: 0.559547, te_score: 0.730000
+
+time = 20
+tr_loss: 0.585877, tr_score: 0.698750
+va_loss: 0.482083, va_score: 0.790000
+te_loss: 0.585999, te_score: 0.710000
+
+time = 20
+tr_loss: 0.575183, tr_score: 0.703750
+va_loss: 0.607701, va_score: 0.710000
+te_loss: 0.556801, te_score: 0.720000
+
+time = 20
+tr_loss: 0.518013, tr_score: 0.753750
+va_loss: 0.500420, va_score: 0.780000
+te_loss: 0.524368, te_score: 0.720000
+
+time = 20
+tr_loss: 0.578551, tr_score: 0.703750
+va_loss: 0.580672, va_score: 0.730000
+te_loss: 0.618288, te_score: 0.700000
+
+time = 20
+tr_loss: 0.577845, tr_score: 0.711250
+va_loss: 0.573142, va_score: 0.720000
+te_loss: 0.582971, te_score: 0.730000
+
+time = 20
+tr_loss: 0.551323, tr_score: 0.725000
+va_loss: 0.523372, va_score: 0.730000
+te_loss: 0.580152, te_score: 0.730000
+
+time = 20
+tr_loss: 0.545103, tr_score: 0.725000
+va_loss: 0.607063, va_score: 0.640000
+te_loss: 0.575905, te_score: 0.680000
+
+time = 20
+tr_loss: 0.550274, tr_score: 0.723750
+va_loss: 0.573110, va_score: 0.720000
+te_loss: 0.614051, te_score: 0.720000
+
+time = 20
+tr_loss: 0.580587, tr_score: 0.707500
+va_loss: 0.609870, va_score: 0.700000
+te_loss: 0.629367, te_score: 0.700000
+
+time = 20
+tr_loss: 0.538168, tr_score: 0.745000
+va_loss: 0.514974, va_score: 0.760000
+te_loss: 0.553761, te_score: 0.760000
+
+time = 20
+tr_loss: 0.542708, tr_score: 0.715000
+va_loss: 0.580663, va_score: 0.670000
+te_loss: 0.549719, te_score: 0.720000
+
+======================================================
+20  Seed:  [8890. 5137. 6638. 5364. 3035. 4210. 5798. 9783. 7946.  146. 8127. 1556.
+ 1338. 7812. 5900. 6230. 6141. 6234. 5455. 7649.]
+tr_loss: 0.567128, tr_score: 0.716500
+va_loss: 0.569672, va_score: 0.718000
+te_loss: 0.571227, te_score: 0.723500
+
+
+mid seed:  [9082. 6878.  978. 6918.   35. 3547.  812. 1562. 5243. 8191. 5330. 4602.
+ 2929. 4830.  303. 9956. 3156. 7475. 4637.  734.]
+mid test scores 0.7044999999999999
