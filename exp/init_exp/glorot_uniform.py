@@ -169,6 +169,8 @@ if __name__ == '__main__':
         train_loss, train_score = model.evaluate(x_train, y_train, verbose=0)
         val_loss, val_score = model.evaluate(x_val, y_val, verbose=0)
         test_loss, test_score = model.evaluate(x_test, y_test, verbose=0)
+        pred_test_y = model.predict(x_test)
+        np.save('./data/glorot_uniform_%d.npy' %(random_seed), pred_test_y)
         print('tr_loss: %f, tr_score: %f' %(train_loss, train_score))
         print('va_loss: %f, va_score: %f' %(val_loss, val_score))
         print('te_loss: %f, te_score: %f' %(test_loss, test_score))

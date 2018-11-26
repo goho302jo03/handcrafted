@@ -172,6 +172,8 @@ if __name__ == '__main__':
         print('tr_loss: %f, tr_score: %f' %(train_loss, train_score))
         print('va_loss: %f, va_score: %f' %(val_loss, val_score))
         print('te_loss: %f, te_score: %f' %(test_loss, test_score))
+        pred_test_y = model.predict(x_test)
+        np.save('./data/softplus_%d.npy' %(random_seed), pred_test_y)
         print('=========================================================')
         train_scores.append(np.mean(train_score))
         val_scores.append(np.mean(val_score))
