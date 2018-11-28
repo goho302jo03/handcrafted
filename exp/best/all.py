@@ -138,7 +138,7 @@ if __name__ == '__main__':
         print('------------------------------------------------')
         print('Seed = %d' %(random_seed))
         print('------------------------------------------------')
-        train, tmp, _, _ = train_test_split(datas, datas, test_size=0.2, random_state=random_seed)
+        train, tmp, _, _ = train_test_split(datas, datas, test_size=0.4, random_state=random_seed)
         val, test, _, _ = train_test_split(tmp, tmp, test_size=0.5, random_state=random_seed)
 
         x_train, y_train = train[:, :-1], train[:, -1]
