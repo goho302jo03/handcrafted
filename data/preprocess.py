@@ -1,4 +1,9 @@
+#!/usr/bin/env python3.6
+# -*- coding: utf-8 -*-
+
+# Third-party import
 import numpy as np
+
 
 def main(file):
     with open('%s.dat' %file, 'r') as f:
@@ -9,6 +14,7 @@ def main(file):
         data[:, -1] -= 1
     np.save('./%s.npy' %file, data)
 
-if __name__ == "__main__":
+
+if "__main__" == __name__:
     main('australian')
     main('german')
